@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Zay Care | Natural Wellness</title>
+  <meta name="description" content="Zay Care – Premium natural hair care powered by coconut oil, olive oil and tulsi. Discover Zaythulasi Hair Oil.">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="header">
+  <div class="logo">Zay Care</div>
+  <a href="#contact" class="btn">Contact</a>
+</header>
+
+<section class="hero">
+  <h1>Care, Rooted in Nature</h1>
+  <p>Zaythulasi Hair Oil blends coconut, olive & tulsi for healthier roots and natural shine.</p>
+  <a href="#product" class="btn primary">Explore Zaythulasi</a>
+</section>
+
+<section class="about">
+  <h2>Our Story</h2>
+  <p>
+    Zay Care is a purpose-driven wellness brand born from simplicity and honesty.
+    We believe real care begins with pure ingredients, gentle processes,
+    and deep respect for nature. Every bottle reflects our promise of quality,
+    balance, and trust.
+  </p>
+</section>
+
+<section id="product" class="product">
+  <h2>Zaythulasi Hair Oil</h2>
+  <div class="product-box">
+    <div>
+      <h3>Why Zaythulasi?</h3>
+      <ul>
+        <li>Coconut oil base for deep nourishment</li>
+        <li>Olive oil (Zaithoon) for scalp strength</li>
+        <li>Tulsi extract to reduce hair fall</li>
+        <li>Safe for daily use</li>
+      </ul>
+    </div>
+    <div>
+      <h3>How to Use</h3>
+      <p>
+        Gently massage into scalp for 5–10 minutes.
+        Leave for at least 1 hour or overnight.
+        Wash with mild shampoo.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="why">
+  <h2>Why Zay Care</h2>
+  <p>
+    Small-batch production. No harsh chemicals.
+    Ethical sourcing. Honest formulations.
+    Designed for people who value long-term care over quick promises.
+  </p>
+</section>
+
+<section class="cta" id="contact">
+  <h2>Begin Your Natural Care Journey</h2>
+  <a href="https://wa.me/91XXXXXXXXXX" class="btn primary">WhatsApp Us</a>
+</section>
+
+<footer class="footer">
+  <p>© 2025 Zay Care. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
